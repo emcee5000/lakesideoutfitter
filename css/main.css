@@ -1,0 +1,64 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700');
+
+
+html {
+    /* background-color: #102b3c; */
+    color: #fff;
+    background-color: #0b131e;
+
+}
+
+body {
+    /* background-color: #102b3c; */
+    color: #fff;
+    padding: 0;
+    background-image: url(../img/bg-water.jpg);
+    background-color: transparent !important;
+
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    /* background-color: #102b3c; */
+    color: #fff;
+    background-color: transparent !important;
+
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
+
+
+.jumbotron {
+    /* background-color: #102b3c; */
+    color: #fff;
+    background-color: transparent !important;
+
+}
+
+.jumbotron a {
+    color: #fff;
+}
+
+.jumbotron h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.jumbotron h2 {
+    text-transform: uppercase;
+}
+.jumbotron p {
+    font-size: 2em;
+}
+address {
+    font-size: 1.5em;
+}
